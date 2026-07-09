@@ -61,7 +61,7 @@ df_original = cargar_datos("Base datos.xlsx")
 if not df_original.empty:
     
     # === TÍTULO PRINCIPAL ===
-    st.title("Propuesta de Nazly Diagnóstico Automático de Auditoría")
+    st.title("Propuesta Automática de Auditoría")
     st.subheader("Cuentas por Pagar y Cuentas por Cobrar - Análisis de Terceros en Masa")
     st.write("---")
 
